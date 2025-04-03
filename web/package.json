@@ -38,15 +38,15 @@
     "vite-tsconfig-paths": "^4.3.1"
   },
   "dependencies": {
-    "@builder.io/qwik": "^1.1.4",
+    "@builder.io/qwik": "^1.12.0",
     "@tailwindcss/typography": "^0.5.10",
-    "chart.js": "^4.4.1",
-    "marked": "^12.0.0",
+    "chart.js": "^4.4.7",
+    "marked": "^12.0.2",
     "progressbar.js": "^1.1.1",
     "qwik-transition": "^0.0.7",
-    "sharp": "^0.32.6"
+    "sharp": "^0.33.5"
   },
   "resolutions": {
-    "sharp": "^0.32.6"
+    "sharp": "^0.33.5"
   }
 }
